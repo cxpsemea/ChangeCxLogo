@@ -19,6 +19,13 @@ Note: Please assure your new icon have the same dimensions as the original Check
 - -newLogoPath \<Path> - Example: C:\Users\Admin\Desktop\mylogo.png - * Required
 - -cxHome \<Path> - Example/Default: C:\Program Files\Checkmarx - Optional
 
+# Example
+
+```cmd
+> .\ChangeCxLogo.ps1 -newLogoPath C:\Users\Administrator\Desktop\cx.png
+Checkmarx Logos updated with success !
+```
+
 # Help
 
 ```cmd

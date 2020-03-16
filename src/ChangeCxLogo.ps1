@@ -70,4 +70,5 @@ if((pathExists $newLogoPath) -and (pathExists $cxHome)){
         Write-Warning "Image Path ${image2Path} does not exists. New file created !"
         $copied = copy $newLogoPath $image2Path
     }
+    Write-Host "Checkmarx Logos updated with success !"
 }
