@@ -62,21 +62,21 @@ REMARKS
 
 Portal
 
-![Portal](./images/beforePortal.png)
+![Portal](./images/beforePortal.PNG)
 
 ### After
 
 Portal
 
-![Portal](./images/afterPortal.png)
+![Portal](./images/afterPortal.PNG)
 
 Folder \<CHECKMARX_HOME>\CheckmarxWebPortal\Web\Images\new-menu\checkmarx_logo.png
 
-![Folder \<CHECKMARX_HOME>\CheckmarxWebPortal\Web\Images\new-menu\checkmarx_logo.png](./images/afterFolder1.png)
+![Folder \<CHECKMARX_HOME>\CheckmarxWebPortal\Web\Images\new-menu\checkmarx_logo.png](./images/afterFolder1.PNG)
 
 Folder \<CHECKMARX_HOME>\CheckmarxWebPortal\Web\app\styles\images\checkmarx_logo.png
 
-![Folder \<CHECKMARX_HOME>\CheckmarxWebPortal\Web\app\styles\images\checkmarx_logo.png](./images/afterFolder2.png)
+![Folder \<CHECKMARX_HOME>\CheckmarxWebPortal\Web\app\styles\images\checkmarx_logo.png](./images/afterFolder2.PNG)
 
 # License
 
