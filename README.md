@@ -62,21 +62,21 @@ REMARKS
 
 Portal
 
-<img src="images/beforePortal.png" >
+<img src="./images/beforePortal.png" >
 
 ### After
 
 Portal
 
-<img src="images/afterPortal.png" >
+<img src="./images/afterPortal.png" >
 
 Folder \<CHECKMARX_HOME>\CheckmarxWebPortal\Web\Images\new-menu\checkmarx_logo.png
 
-<img src="images/afterFolder1.png" >
+<img src="./images/afterFolder1.png" >
 
 Folder \<CHECKMARX_HOME>\CheckmarxWebPortal\Web\app\styles\images\checkmarx_logo.png
 
-<img src="images/afterFolder2.png" >
+<img src="./images/afterFolder2.png" >
 
 # License
 
